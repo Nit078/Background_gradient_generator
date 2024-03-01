@@ -16,7 +16,7 @@ The generated CSS gradient syntax will be displayed below the buttons.
 Click on the CSS code to copy it to your clipboard.
 
 Demo
-You can view a live demo of the Background Color Generator -> https://nit078.github.io/Background_gradient_generator/
+You can view a live demo of the Background Color Generator -> https://gradientcolourgenerator.netlify.app/
 
 Contributions
 Contributions are welcome! If you find any bugs or want to suggest improvements, feel free to open an issue or create a pull request.
