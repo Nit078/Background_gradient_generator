@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(to right top, #051937,#004d74,#008793,#00bf72,#a8eb12); 
+    text-align: center;
+    justify-content: center; 
+    margin-top: 20%;
+}
+.copyCode {
+    font-size: 20px;
+    white-space: normal; 
+    width: 350px; 
+    margin: 0 auto;
+    text-align: center;
+    color: white; 
+    font-family:'Times New Roman', Times, serif
+    
+}
+
+#myButton,#myButton2{
+  
+        display: inline-block;
+        padding: 10px 20px;
+        border: 2px solid #4CAF50; 
+        border-radius: 50px;
+        background-color: #4CAF50;
+        color: white; 
+        font-size: 16px;
+        text-align: center;
+        text-decoration: none;
+        transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        margin-right: 30px; 
+    }
+    
